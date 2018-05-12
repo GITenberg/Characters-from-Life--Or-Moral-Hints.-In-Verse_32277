@@ -1,0 +1,29 @@
+_repo: Characters-from-Life--Or-Moral-Hints.-In-Verse_32277
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32277-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Parkerson, James
+    gutenberg_agent_id: '35765'
+    url: http://www.gutenberg.org/2009/agents/35765
+description: ''
+gutenberg_issued: '2010-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+tableOfContents: Admonitions to the dissipated -- On viewing the cattle market on
+  the castle hill -- The lion and the orange grove -- The convict's farewell -- Advice,
+  &c. -- An address to a man of the world -- Serious reflections -- An address to
+  Calista, taken from life -- A dierge to the memory of Princess Charlotte -- To the
+  memory of an affectionate parent -- Albert to Hannah -- On the death of Lord Nelson.
+title: Characters from Life; Or, Moral Hints. In Verse
+url: http://www.gutenberg.org/ebooks/32277
